@@ -16,3 +16,5 @@ Linear regression
 1. Year
 2. Fuel type
 3. Owner
+4. km driven
+5. Transmission
